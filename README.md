@@ -171,13 +171,6 @@ Findings table + PDF report
 
 ---
 
-## Building From Source
-
-## Source Code
-
-The source code for VulnScan is currently closed source. 
-
-
 To build the installer yourself:
 
 ```bash
