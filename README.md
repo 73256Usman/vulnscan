@@ -1,4 +1,4 @@
-# VulnScan - vulnerability scanner with Windows Installer and Runs Locally
+# Vulnerability scanner with Windows Installer and Runs Locally
 
 A free vulnerability scanner that runs entirely on your computer. No accounts, no subscriptions, no data sent to the cloud. Just download it, install it, and start scanning.
 <img width="1111" alt="Scan Results" src="https://github.com/user-attachments/assets/656c0233-479a-465c-8191-7f377f441f83" />
